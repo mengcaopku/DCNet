@@ -64,7 +64,7 @@ python post_processing.py --data_root ./data/ --dataset VID --gpu GPUID --savena
 
 
 ## Citation
-Please **[★star]** this repo and **[cite]** the following paper if you feel our CoLA useful to your research:
+Please **[★star]** this repo and **[cite]** the following paper if you feel our DCNet useful to your research:
 ```
 @article{cao2022correspondence,
   title={Correspondence Matters for Video Referring Expression Comprehension},
